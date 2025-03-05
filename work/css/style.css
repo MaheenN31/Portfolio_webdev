@@ -1,0 +1,33 @@
+/* Apply background image globally */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: url('../images/bg.jpg') repeat;
+    background-size: contain; /* Adjusts image size while repeating */
+    color: #fff;
+}
+
+
+/* Navbar */
+.navbar {
+    background: rgba(0, 0, 0, 0.8); /* Semi-transparent navbar */
+    padding: 15px 20px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ff6f61 !important;
+}
+
+.navbar-nav .nav-link {
+    color: #fff !important;
+    margin-right: 15px;
+    transition: color 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ff6f61 !important;
+}
+
+/* Hero Section */
+
