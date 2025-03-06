@@ -39,8 +39,5 @@ Built with HTML, CSS and Bootstrap, it is a dark themeed website with smooth ani
 - **CSS & Bootstrap**  
 - **JavaScript**  
 
-## Installation & Setup
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
+## Live demo link
+https://maheenn31.github.io/portfolio-2025/
