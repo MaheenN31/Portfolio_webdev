@@ -9,19 +9,19 @@ Built with HTML, CSS and Bootstrap, it is a dark themeed website with smooth ani
 ## Screenshots
 
 ### Home Page
-![Home Page](images/ss-home.png)
+![Home Page](ss-home.png)
 
 ### Projects Section
-![Projects Section](images/ss-projects.png)
+![Projects Section](ss-projects.png)
 
 ### Education Section
-![Education Section](images/ss-education.png)
+![Education Section](ss-education.png)
 
 ### Skills Section
-![Skills Section](images/ss-skills.png)
+![Skills Section](ss-skills.png)
 
 ### Contact Section
-![Contact Section](images/ss-contact.png)
+![Contact Section](ss-contact.png)
 
 ## Features
 
